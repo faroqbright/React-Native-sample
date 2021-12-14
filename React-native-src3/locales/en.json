@@ -1,0 +1,127 @@
+{
+
+  "general_errors": {
+    "went_wrong": "Something went wrong"
+  },
+  "crousel_screen": {
+    "watch_more_earn_more": "Watch more, earn more",
+    "free_cash": "Free cash",
+    "discover_application": "Discover the most enjoyable application in your city",
+    "whatever_on_your_mind": "Whatever is in your mind will deliver you at all times",
+    "skip": "Skip"
+  },
+  "register_now": {
+    "register_now": "Register Now",
+    "tel_num": "Enter Phone Number",
+    "tel_num_placeholder": "Mobile Phone Number",
+    "register": "Proceed",
+    "already_have_acc": "Already have an account?",
+    "log_in": "LogIn",
+    "invalid_number": "Invalid phone number",
+    "enter_number":"Please enter your phone number"
+  },
+  "log_in": {
+    "enter_personal_info":"Enter your personal information",
+    "full_name":"Full Name",
+    "email":"E-mail",
+    "name_enter":"Name too short",
+    "email_enter":"Email required",
+    "email_invalid":"Invalid email"
+
+  },
+  "otp":{
+    "enter_code":"Enter the sent code"
+  },
+  "registraton_detail":{
+    "dob":"Date of Birth",
+    "city":"City",
+    "ur_interestes":"Your interests",
+    "sport":"Sport",
+    "health":"Health",
+    "education":"Education",
+    "culture":"Culture",
+    "technology":"Technology",
+    "fashion":"Fashion",
+    "beautifing":"Beautifying",
+    "tourism":"Tourism",
+    "date":"Date of birth should not be the current date",
+    "city_required":"City name required",
+    "cat_required":"At least one interest category is required",
+    "gender":"Gender",
+    "gender_required":"Gender is required"
+  },
+  "home":{
+    "main":"Main",
+    "latest_products":"Latest products"
+  },
+  "selectCity":{
+    "mecca":"Mecca",
+    "jeddah":"Jeddah",
+    "riyadh":"Riyadh"
+  },
+  "menu":{
+    "favorite":"Favorites",
+    "help":"Help",
+    "settings":"Settings",
+    "my_points":"My points",
+    "terms_conidionts":"Terms and conditions",
+    "invite_a_friend":"Invite your friends",
+    "log_out":"Log Out",
+    "no_favorites":"No favourites available."
+  },
+  "play":{
+    "categories":"Categories",
+    "digital_products":"Digital products",
+    "get_off":"Get 10% off",
+    "ad_desc_1":"Rudder helm",
+    "ad_desc_2":"Get 20% off when you buy ..."
+  },
+  "gift_box":{
+    "offers":"Offers",
+    "newly_used":"Newly used",
+    "validity":"Validity",
+    "points":"2000 Points",
+    "valid_till":"Valid until 1.8.2021",
+    "replace":"Replace",
+    "use_the_diss_code":"Use the discount code",
+    "exclusive_offers":"Exclusive offers",
+    "learn_more":"Learn more",
+    "qetafi_partners":"Qetafi Partners",
+    "redeme_points":"Redeeming points",
+    "points_to_exchange":"Enter the number of points to exchange",
+    "value":"Value",
+    "no_of_points":"Number of points",
+    "confirm":"Confirm",
+    "replacement_successful":"Replacement was successful",
+    "remaining_points":"Your Promo Code",
+    "choose_category":"Choose a category"
+  },
+  "user":{
+    "video":"video",
+    "tel_num":"Telephone number",
+    "email":"E-mail",
+    "latest_views":"Latest views"
+  },
+  "setting":{
+    "personal_acc":"Personal account",
+    "personal_pic":"Profile picture",
+    "name":"Name",
+    "tel_num":"Telephone number",
+    "email":"E-mail",
+    "password":"Password",
+    "application":"Application",
+    "country":"Country",
+    "city":"City",
+    "language":"Language",
+    "notifications":"Notifications",
+    "update_profile_pic":"Update Profile Picture",
+    "update_name":"Update Name"
+  },
+  "myPoints":{
+    "my_points":"My Points"
+  },
+  "partnerDetail":{
+    "any_query":"Do you have any inquiries or questions?",
+    "customer_service":"Customer Service"
+  }
+}

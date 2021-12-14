@@ -1,0 +1,119 @@
+{
+  "crousel_screen": {
+    "watch_more_earn_more": "شاهد اكثر، تكسب اكثر",
+    "free_cash": "كاش ببلاش",
+    "discover_application": "اكتشف امتع تطبيق بمدينتك",
+    "whatever_on_your_mind": "اللي بخاطرك راح يوصلك بكل الاوقات",
+    "skip":"تخطي"
+  },
+  "register_now": {
+    "register_now":"سجل الان",
+    "tel_num":"رقم الهاتف",
+    "tel_num_placeholder":"رقم الهاتف المحمول",
+    "register":"تأكيد",
+    "already_have_acc":"لديك حساب بالفعل؟",
+    "log_in":"تسجيل دخول",
+    "invalid_number": "رقم الهاتف غير صحيح",
+    "enter_number":"الاسم قصير جدًا"
+  },
+  "log_in": {
+    "enter_personal_info":"ادخل بياناتك الشخصية",
+    "full_name":"الاسم كامل",
+    "email":"البريد الاكتروني"
+  },
+  "otp":{
+    "enter_code":"ادخل الرمز المرسل"
+  },
+  "registraton_detail":{
+    "dob":"تاريخ الميلاد",
+    "city":"المدينة",
+    "ur_interestes":"اهتماماتك",
+    "sport":"رياضة",
+    "health":"صحة",
+    "education":"تعليم",
+    "culture":"ثقافة",
+    "technology":"تكنولوجيا",
+    "fashion":"موضة",
+    "beautifing":"تجميل",
+    "tourism":"سياحة",
+    "gender":"جنس",
+    "gender_required":"الجنس مطلوب",
+    "date":"يجب ألا يكون تاريخ الميلاد هو التاريخ الحالي",
+    "city_required":"اسم المدينة مطلوب",
+    "cat_required":"مطلوب فئة واحدة على الأقل"
+  },
+  "home":{
+    "main":"الرئيسية",
+    "latest_products":"احدث المنتجات"
+  },
+  "selectCity":{
+    "mecca":"مكة المكرمة",
+    "jeddah":"جِدَّة",
+    "riyadh":"الرياض"
+  },
+  "menu":{
+    "favorite":"المفضلة",
+    "help":"مساعدة",
+    "settings":"الاعدادات",
+    "my_points":"نقاطي",
+    "terms_conidionts":"الشروط والاحكام",
+    "invite_a_friend":"ادعو اصدقائك",
+    "log_out":"تسجيل خروج",
+    "no_favorites":"لا توجد مفضلات متاحة."
+  },
+  "play":{
+    "categories":"الفئات",
+    "digital_products":"منتجات رقمية",
+    "get_off":"احصل على خصم ١٠٪",
+    "ad_desc_1":"غترة الدفة",
+    "ad_desc_2":"احصل على خصم ٢٠٪ عند شراءك …"
+  },
+  "gift_box":{
+    "offers":"العروض",
+    "newly_used":"استخدمت حديثا",
+    "validity":"الصلاحية",
+    "points":"٢٠٠٠ نقطة",
+    "valid_till":"صالحة حتى 1.8.2021",
+    "replace":"استبدل",
+    "use_the_diss_code":"استخدم كود الخصم",
+    "exclusive_offers":"عروض حصرية",
+    "learn_more":"اعرف المزيد",
+    "qetafi_partners":"شركاء قطافي",
+    "redeme_points":"",
+    "points_to_exchange":"ادخل عدد النقاط المراد تبديلها",
+    "value":"القيمة",
+    "no_of_points":"عدد النقاط",
+    "confirm":"تأكيد العملية",
+    "replacement_successful":"تم الاستبدال بنجاح",
+    "remaining_points":"الرمز الترويجي الخاص بك",
+    "choose_category":"اختر الفئة"
+  },
+  "user":{
+    "video":"فيديو",
+    "tel_num":"رقم الهاتف",
+    "email":"البريد الالكتروني",
+    "latest_views":"اخر المشاهدات"
+  },
+  "setting":{
+    "personal_acc":"الحساب الشخصي",
+    "personal_pic":"الصوره الشخصيه",
+    "name":"الأسم",
+    "tel_num":"رقم الهاتف",
+    "email":"البريد الإكتروني",
+    "password":"كلمة المرور",
+    "application":"التطبيق",
+    "country":"البلد",
+    "city":"المدينة",
+    "language":"اللغة",
+    "notifications":"الاشعارات",
+    "update_profile_pic":"تحديث صورة الملف الشخصي",
+    "update_name":"تحديث الاسم"
+  },
+  "myPoints":{
+    "my_points":"نقاطي"
+  },
+  "partnerDetail":{
+    "any_query":"هل لديك أي استفسار أو أسئلة؟",
+    "customer_service":"خدمة العملاء"
+  }
+}
